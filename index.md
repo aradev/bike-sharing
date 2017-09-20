@@ -3,4 +3,6 @@ layout: default
 title: Home
 ---
 
-Using Python for Data Analysis of Bike Sharing Dataset Data Set
+My first attempt to do data analysis with python.
+
+I am using the [https://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset](Bike Sharing Dataset Data Set)
