@@ -1,5 +1,3 @@
-# bike-sharing
-
 
 My first attempt to do data analysis with python.
 
